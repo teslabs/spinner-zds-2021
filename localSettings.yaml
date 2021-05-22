@@ -1,0 +1,3 @@
+defaultIndent: '  '
+verbatimEnvironments:
+  codebox: 1
