@@ -1,5 +1,7 @@
 # Using Zephyr for hard real-time applications: motor control
 
+[![build](https://github.com/teslabs/spinner-zds-2021/actions/workflows/build.yml/badge.svg)](https://github.com/teslabs/spinner-zds-2021/actions/workflows/build.yml)
+
 This repository contains the sources for the talk "Using Zephyr for hard
 real-time applications: motor control" presented at the 2021 Zephyr Developer
 Summit.
